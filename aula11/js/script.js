@@ -7,7 +7,8 @@ num2 = Number(num2);
 alert(`O resultado da sua conta foi: ${num1 + num2}`);
 
 
-/* Ou
+/* Ou ===>
+    
 const resultado = num1 + num2
 
 alert('O resultado a sua conta foi: ' + resultado);
